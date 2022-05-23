@@ -9,7 +9,6 @@ import org.koin.androidx.viewmodel.ext.android.sharedViewModel
 import sk.globing.notesappandroid.R
 import sk.globing.notesappandroid.databinding.SimpleTextChooserDialogFragmentBinding
 import sk.globing.notesappandroid.ui.viewmodel.NoteViewModel
-import sk.szmpsz.android.ui.register.common.adapter.SimpleTextAdapter
 
 class ChooseCategoryDialog(private val clickListener: (String) -> Unit): DialogFragment(R.layout.simple_text_chooser_dialog_fragment) {
 

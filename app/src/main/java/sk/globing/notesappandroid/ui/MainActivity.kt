@@ -1,7 +1,6 @@
 package sk.globing.notesappandroid.ui
 
 import android.os.Bundle
-import android.os.PersistableBundle
 import androidx.appcompat.app.AppCompatActivity
 import sk.globing.notesappandroid.R
 
