@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes App Android</string>
+    <string name="description_delete_note_image_button">Delete note image button</string>
+    <string name="description_button_to_add_new_note">Button to Add new note</string>
+    <string name="note_title">Note title</string>
+    <string name="category">Category</string>
+    <string name="ok">OK</string>
+    <string name="no_notes_can_be_found">No Notes can be found</string>
+    <string name="reload">Reload</string>
+    <string name="hint_enter_category">Click to select category</string>
+    <string name="hint_enter_title">Enter title</string>
+    <string name="hint_enter_note">Enter note</string>
+    <string name="description_save_button">Save button</string>
+</resources>
